@@ -1,0 +1,29 @@
+[
+    {
+        "service_Name": "Vaccination",
+        "img": "https://i.ibb.co/YjK7QNy/photo-1554734867-bf3c00a49371.jpg"
+    }, 
+    {
+        "service_Name": "Isolation",
+        "img": "https://i.ibb.co/f4zLPJ4/photo-1583947215259-38e31be8751f.jpg"
+    }, 
+    {
+        "service_Name": "Online Support",
+        "img": "https://i.ibb.co/Yp749Vw/photo-1587854692152-cbe660dbde88.jpg"
+    }, 
+    {
+        "service_Name": "Deliver Medicine",
+        "img": "https://i.ibb.co/RzcRLSw/photo-1592671963996-0b4616e9f042.jpg"
+    }, 
+    {
+        "service_Name": "Abulance",
+        "img": "https://i.ibb.co/Rh2sSdj/photo-1610702878756-ee591216ea96.jpg"
+    }, 
+    {
+        "service_Name": "Sanitization",
+        "img": "https://i.ibb.co/Jt98V7H/photo-1611694554696-e5a46f5015bf.jpg"
+    }
+]
+
+
+
